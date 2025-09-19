@@ -17,6 +17,7 @@ Dự án **Website Cá Nhân** được xây dựng hoàn toàn bằng **PHP thu
 - ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white&style=for-the-badge)
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
+
 ## 📂 Cấu trúc thư mục
 website_canhan/
 ├── assets/
